@@ -1,0 +1,15 @@
+{
+  "name": "agentes_ia_25_26",
+  "version": "1.0.0",
+  "description": "semana 01 de agentes IA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate": "bash ./script/validate.sh"
+  },
+  "author": "Angel Ortega Medina",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
