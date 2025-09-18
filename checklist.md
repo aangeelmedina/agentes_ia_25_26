@@ -16,7 +16,7 @@
 - [] Crear carpeta src
 - [x] Crear carpeta de script
 - [x] Crear fichero package.json
-- [] Crear el fichero .gitignore
+- [x] Crear el fichero .gitignore
 - [] He realizado conexio con github este proyecto
 
 
